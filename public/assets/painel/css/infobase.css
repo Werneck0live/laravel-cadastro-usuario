@@ -1,0 +1,78 @@
+.title-pg{
+	  font-size: 2em;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.container{
+  margin-top: 30px;
+}
+
+.edit{
+	background: #CCC;
+  background-color: #1d29a7;
+  color: #FFF;
+}
+
+.actions{
+	padding: 4px;
+  text-decoration: none;
+  font-size: 1em;
+  margin: 0px 2px;
+}
+
+.actions:hover{
+	text-decoration: none;
+	color: #FFF;
+}
+.delete{
+  background-color: #f3efef;
+   color: #00295f;
+}
+
+.delete:hover{
+   background-color: #f3efef;
+   color: #00295f;
+} 
+
+.admin{
+  margin-left: 20%;
+  font-weight: 600;
+  color:#1a0eb7;
+}
+
+#btn-cadastrar{
+	margin-bottom: 10px;
+}
+
+.form-group{
+  width: 500px;
+}
+
+.usuario{
+  width: 500px;
+}
+
+.forbidden{
+  pointer-events: none;
+  cursor: default;
+  text-decoration: none;
+  opacity: 0.5;
+}
+
+.form-edit-create{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+.btn-light{
+  float:right;
+  margin-right: 20px;
+  text-align: left;
+  font-weight: 600;
+}
+.check-opacity{
+    opacity: 0.3;
+}
